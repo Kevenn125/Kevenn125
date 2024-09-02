@@ -1,9 +1,10 @@
 ##Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é kevenn ferreira
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+Quero aprender programação para seguir meu projeto de vida!😁
 <!--
 **Kevenn125/Kevenn125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
